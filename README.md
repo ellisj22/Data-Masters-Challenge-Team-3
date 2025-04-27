@@ -5,7 +5,9 @@ This repository contains the code and reports for Team 3’s submission to the D
 Repository Structure
 
 Data-Masters-Challenge-Team-3/
+
 ├── scripts/
+
 │   ├── data_cleaning.py                # Cleans raw energy consumption data
 │   ├── energy_analysis.py              # Analyzes energy usage patterns
 │   ├── summarize_data_issues.py        # Summarizes issues in raw data
