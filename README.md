@@ -9,16 +9,25 @@ Data-Masters-Challenge-Team-3/
 ├── scripts/
 
 │   ├── data_cleaning.py                # Cleans raw energy consumption data
+
 │   ├── energy_analysis.py              # Analyzes energy usage patterns
+
 │   ├── summarize_data_issues.py        # Summarizes issues in raw data
+
 │   ├── summarize_cleaned_data_issues.py # Summarizes issues in cleaned data
+
 │   ├── Data_Masters_Challenge_Olympiad_Team_3_Predictive_Models.ipynb # Predictive modeling notebook
 
 ├── reports/
+
 │   ├── Data_Cleaning_Report.pdf        # Data cleaning process and results
+
 │   ├── Exploratory Data Analyis.pdf     # Select Exploratory data analysis findings w/ visualizations
+
 │   ├── Business Insights Report.pdf      # Business recommendations for energy efficiency
+
 │   ├── EDA Visualizations.pbix        # EDA interactive dashboards - comprehensive
+
 ├── README.md                           # This file
 
 Data Notes
